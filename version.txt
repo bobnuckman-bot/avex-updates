@@ -1,0 +1,3 @@
+#define UPDATE_HOST         L"raw.githubusercontent.com"
+#define UPDATE_VERSION_PATH L"/bobnuckman-bot/avex-updates/main/version.txt"
+#define UPDATE_EXE_URL      L"https://github.com/bobnuckman-bot/avex-updates/releases/latest/download/AvexLoader.exe"
